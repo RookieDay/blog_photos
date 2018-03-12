@@ -1,0 +1,2 @@
+# blog_photos
+blog
